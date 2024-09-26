@@ -1,4 +1,4 @@
-# Regression Anallysis at Neural Edge AI
+# Regression Analysis at Neural Edge AI
 
 At **Neural Edge AI**, we specialize in **regression analysis**, offering a range of models to fit your specific needs, 
 from **simple linear regression** for straightforward predictions to advanced **neural network models** designed to handle complex datasets 
